@@ -1,7 +1,6 @@
 # Mastermind
-Conveyor
 
-Wygląd okna aplikacji: (https://github.com/sneark/Conveyor/assets/99653016/ae5ded7e-b0fd-402e-8ef6-451dce3332db)
+Wygląd aplikacji: (https://github.com/sneark/Mastermind/assets/99653016/fe91ed0b-14e9-47d4-ae1b-e9117afe066b)
 
 1. Temat projektu: 
 
