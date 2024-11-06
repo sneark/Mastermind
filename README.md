@@ -1,6 +1,6 @@
 # Mastermind
 
-Wygląd aplikacji: (https://github.com/sneark/Mastermind/assets/99653016/fe91ed0b-14e9-47d4-ae1b-e9117afe066b)
+Wygląd aplikacji: ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sneark/Mastermind/assets/99653016/fe91ed0b-14e9-47d4-ae1b-e9117afe066b))
 
 1. Temat projektu: 
 
