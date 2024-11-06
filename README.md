@@ -1,6 +1,6 @@
 # Mastermind
 
-Wygląd aplikacji: ![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/sneark/Mastermind/refs/heads/main/Wyglad.PNG))
+Wygląd aplikacji: ![screenshot](Wyglad.PNG)
 
 1. Temat projektu: 
 
